@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mattman) (I quit Twitter because Elon.)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mattman)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I ride adventure touring motorcycles and am a volunteer ambassador at [Backcountry Discovery Routes](https://ridebdr.com/)
