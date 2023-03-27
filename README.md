@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I left Microsoft as of March 24, 2023.
-
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mattman) (I quit Twitter because Elon.)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I ride adventure touring motorcycles and am a volunteer ambassador at [Backcountry Discovery Routes](https://ridebdr.com/)
